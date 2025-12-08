@@ -1,4 +1,3 @@
-package practiceQuestions;
 
 public class demoStringBuffer {
 
