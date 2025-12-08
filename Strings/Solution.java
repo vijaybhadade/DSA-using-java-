@@ -1,4 +1,3 @@
-package practiceQuestions;
 
 public class Solution {
 
@@ -8,5 +7,8 @@ public class Solution {
         String str3 = "ShradhaDidi";
         String str4 = "ApanaCollage".replace("l", "");
         System.out.println(str4);
+        System.out.println(str1);
+        System.out.println(str);
+        System.out.println(str3);
     }
 }
