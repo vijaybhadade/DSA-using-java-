@@ -1,6 +1,0 @@
-/**
- * Char
- */
-public class Char {
-
-}
