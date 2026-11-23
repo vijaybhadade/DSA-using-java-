@@ -2,6 +2,7 @@ package Day14;
 
 public class Problem141 {
     private static class ListNode{
+        @SuppressWarnings("unused")
         int val;
         ListNode next;
 
@@ -12,8 +13,6 @@ public class Problem141 {
     }
     public static  boolean hasCycle(ListNode head)
     {
-        
-
         ListNode  slow=head;
         ListNode fast=head;
         while(fast != null && fast.next!=null)
